@@ -1,5 +1,5 @@
 # Laravel-9-Tailwind-based-components
-SPA based on Laravel 9 components. Tailwind &amp;AlpineJS. Existing sections can be added and rearrange in home.blade file.
+Simple SPA based on Laravel 9 components. Tailwind &amp;AlpineJS. Existing sections can be added and rearrange in home.blade file.
 
 1. git clone
 2. composer install
@@ -9,4 +9,4 @@ SPA based on Laravel 9 components. Tailwind &amp;AlpineJS. Existing sections can
 
 
 
-Some markup from Tailgrids https://github.com/TailGrids/tailwind-ui-components
+Some markup came from Tailgrids https://github.com/TailGrids/tailwind-ui-components
