@@ -6,3 +6,7 @@ SPA based on Laravel 9 components. Tailwind &amp;AlpineJS. Existing sections can
 3. npm install
 4. check .env file
 5. npm run watch (if needed)
+
+
+
+Some markup from Tailgrids https://github.com/TailGrids/tailwind-ui-components
